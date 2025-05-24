@@ -40,3 +40,9 @@ cd scripts
 # If you are using Jupyter Npose_tracking_webcam_smalcotebook
 jupyter notebook vision_dino_game_control.ipynb
 ```
+
+Finally you have to update your SERVER_URL in the notebook with the ngrok URL. You can find the ngrok URL in the terminal where you started ngrok. It should look something like this:
+
+```
+ngrok: http://12345678.ngrok.io
+```
