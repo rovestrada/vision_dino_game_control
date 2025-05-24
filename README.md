@@ -31,6 +31,10 @@ python3 ngrok_server_robust.py
 
 Run the notebook in the scripts folder. You can use the following command to run the notebook:
 
+Or you can open the notebook in Google Colab and run it there.
+
+
+
 ```bash
 cd scripts
 # If you are using Jupyter Npose_tracking_webcam_smalcotebook
