@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-🎮 Servidor del Dinosaurio ROBUSTO - Anti-Congelamiento
+🎮 Servidor del Dinosaurio
 """
 
 from flask import Flask, request, jsonify
